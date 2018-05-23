@@ -46,7 +46,7 @@ gradle jar
 
 Run the program by
 
-java -jar build/libs/MomAssign.jar <from-date> <to-date>
+java -jar build/libs/mom_tech_assign.jar <from-date> <to-date>
 
 <from-date> and <to-date> should be in mmm-yyyy eg Jan-2017
 
